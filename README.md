@@ -1,5 +1,5 @@
-# Watch protject or OMMDAZZ dev board with Spartan 6 FPGA
-## Project Info
+## Watch protject on OMMDAZZ dev board with Spartan 6 FPGA
+### Project Info
 ```
 Possibilities: 
       1. Operation with external RTC chip over I2C;
