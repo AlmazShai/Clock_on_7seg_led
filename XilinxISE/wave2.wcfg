@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="E:/projects/Xilinx/OMDAZZ_project_RTC/top_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="top_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="17" />
+   <wvobject fp_name="/top_tb/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/rst" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/SCLK" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">SCLK</obj_property>
+      <obj_property name="ObjectShortName">SCLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/CE" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">CE</obj_property>
+      <obj_property name="ObjectShortName">CE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/DATA" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">DATA</obj_property>
+      <obj_property name="ObjectShortName">DATA</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/key1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">key1</obj_property>
+      <obj_property name="ObjectShortName">key1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/key2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">key2</obj_property>
+      <obj_property name="ObjectShortName">key2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/uut/I2C_serial1/adress_data" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">adress_data[15:0]</obj_property>
+      <obj_property name="ObjectShortName">adress_data[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/uut/I2C_serial1/r_data" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">r_data</obj_property>
+      <obj_property name="ObjectShortName">r_data</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/uut/I2C_serial1/ready" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ready</obj_property>
+      <obj_property name="ObjectShortName">ready</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/uut/I2C_serial1/send" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">send</obj_property>
+      <obj_property name="ObjectShortName">send</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/uut/set_get_time1/state" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">state[5:0]</obj_property>
+      <obj_property name="ObjectShortName">state[5:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/uut/set_get_time1/nextstate" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">nextstate[5:0]</obj_property>
+      <obj_property name="ObjectShortName">nextstate[5:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/uut/set_get_time1/display_data" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">display_data</obj_property>
+      <obj_property name="ObjectShortName">display_data</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/uut/I2C_serial1/data_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">data_out[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data_out[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/uut/I2C_serial1/count" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">count[7:0]</obj_property>
+      <obj_property name="ObjectShortName">count[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb/uut/I2C_serial1/i" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">i[3:0]</obj_property>
+      <obj_property name="ObjectShortName">i[3:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,27 @@
+
+
+
+
+NET "SEL0" LOC = D9;
+NET "SEL1" LOC = E10;
+NET "SEL2" LOC = F10;
+NET "SEL3" LOC = F9;
+NET "SEL4" LOC = E8;
+NET "SEL5" LOC = D8;
+NET "key1" LOC = C3;
+NET "key2" LOC = D3;
+NET "key3" LOC = E4;
+NET "key4" LOC = E3;
+NET "A" LOC = C7;
+NET "B" LOC = E6;
+NET "C" LOC = C5;
+NET "D" LOC = F7;
+NET "E" LOC = D6;
+NET "F" LOC = E7;
+NET "G" LOC = D5;
+NET "DOT" LOC = C6;
+NET "clk" LOC = T8;
+NET "SCLK" LOC = E13;
+NET "CE" LOC = C13;
+NET "DATA" LOC = D14;
+NET "rst" LOC = L3;

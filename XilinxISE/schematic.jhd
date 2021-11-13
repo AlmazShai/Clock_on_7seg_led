@@ -1,0 +1,9 @@
+MODULE schematic
+	SUBMODULE I2C_serial
+		INSTANCE XLXI_1
+	SUBMODULE set_get_time
+		INSTANCE XLXI_2
+	SUBMODULE switch_led
+		INSTANCE XLXI_3
+	SUBMODULE time_date_mux
+		INSTANCE XLXI_5
