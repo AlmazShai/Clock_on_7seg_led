@@ -7,11 +7,11 @@
 // \   \   \/     Version : 14.7
 //  \   \         Application : sch2hdl
 //  /   /         Filename : schematic.vf
-// /___/   /\     Timestamp : 11/07/2020 20:26:25
+// /___/   /\     Timestamp : 01/16/2022 22:32:04
 // \   \  /  \ 
 //  \___\/\___\ 
 //
-//Command: sch2hdl -intstyle ise -family spartan6 -verilog E:/projects/Xilinx/OMDAZZ_project_RTC/schematic.vf -w E:/projects/Xilinx/OMDAZZ_project_RTC/schematic.sch
+//Command: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\sch2hdl.exe -intstyle ise -family spartan6 -verilog schematic.vf -w E:/projects/Xilinx/OMDAZZ_project_RTC/XilinxISE/schematic.sch
 //Design Name: schematic
 //Device: spartan6
 //Purpose:
